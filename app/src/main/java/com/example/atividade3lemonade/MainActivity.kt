@@ -18,10 +18,10 @@ import androidx.compose.ui.Modifier // Importa a classe para modificar component
 import androidx.compose.ui.graphics.Color // Importa a classe para definir cores
 import androidx.compose.ui.res.painterResource // Importa a função para carregar recursos de imagem
 import androidx.compose.ui.res.stringResource // Importa a função para carregar recursos de string
-import androidx.compose.ui.tooling.preview.Preview
+//import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp // Importa a classe para definir dimensões em dp
 import androidx.compose.ui.unit.sp // Importa a classe para definir tamanhos de fonte em sp
-import com.example.atividade3lemonade.R // Importa o arquivo de recursos do aplicativo
+//import com.example.atividade3lemonade.R // Importa o arquivo de recursos do aplicativo
 import com.example.atividade3lemonade.ui.theme.Atividade3LemonadeTheme // Importa o tema do aplicativo
 
 class MainActivity : ComponentActivity() { // Define a classe MainActivity que herda de ComponentActivity
